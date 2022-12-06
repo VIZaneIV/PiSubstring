@@ -1,0 +1,16 @@
+C:\Users\Piotrek\Source\Repos\VIZaneIV\PiSubstring\PiSubstring\bin\Debug\net5.0\PiSubstring.exe
+C:\Users\Piotrek\Source\Repos\VIZaneIV\PiSubstring\PiSubstring\bin\Debug\net5.0\PiSubstring.deps.json
+C:\Users\Piotrek\Source\Repos\VIZaneIV\PiSubstring\PiSubstring\bin\Debug\net5.0\PiSubstring.runtimeconfig.json
+C:\Users\Piotrek\Source\Repos\VIZaneIV\PiSubstring\PiSubstring\bin\Debug\net5.0\PiSubstring.runtimeconfig.dev.json
+C:\Users\Piotrek\Source\Repos\VIZaneIV\PiSubstring\PiSubstring\bin\Debug\net5.0\PiSubstring.dll
+C:\Users\Piotrek\Source\Repos\VIZaneIV\PiSubstring\PiSubstring\bin\Debug\net5.0\ref\PiSubstring.dll
+C:\Users\Piotrek\Source\Repos\VIZaneIV\PiSubstring\PiSubstring\bin\Debug\net5.0\PiSubstring.pdb
+C:\Users\Piotrek\Source\Repos\VIZaneIV\PiSubstring\PiSubstring\obj\Debug\net5.0\PiSubstring.csprojAssemblyReference.cache
+C:\Users\Piotrek\Source\Repos\VIZaneIV\PiSubstring\PiSubstring\obj\Debug\net5.0\PiSubstring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piotrek\Source\Repos\VIZaneIV\PiSubstring\PiSubstring\obj\Debug\net5.0\PiSubstring.AssemblyInfoInputs.cache
+C:\Users\Piotrek\Source\Repos\VIZaneIV\PiSubstring\PiSubstring\obj\Debug\net5.0\PiSubstring.AssemblyInfo.cs
+C:\Users\Piotrek\Source\Repos\VIZaneIV\PiSubstring\PiSubstring\obj\Debug\net5.0\PiSubstring.csproj.CoreCompileInputs.cache
+C:\Users\Piotrek\Source\Repos\VIZaneIV\PiSubstring\PiSubstring\obj\Debug\net5.0\PiSubstring.dll
+C:\Users\Piotrek\Source\Repos\VIZaneIV\PiSubstring\PiSubstring\obj\Debug\net5.0\ref\PiSubstring.dll
+C:\Users\Piotrek\Source\Repos\VIZaneIV\PiSubstring\PiSubstring\obj\Debug\net5.0\PiSubstring.pdb
+C:\Users\Piotrek\Source\Repos\VIZaneIV\PiSubstring\PiSubstring\obj\Debug\net5.0\PiSubstring.genruntimeconfig.cache
